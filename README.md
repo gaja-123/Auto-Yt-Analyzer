@@ -2,7 +2,7 @@
 Analyze your youtube history data 
 
 # Steps to be followed to work it out
-1. Go to https://takeout.google.com/settings/takeout ,then select only youtube history data in Json format
+1. Go to https://takeout.google.com/settings/takeout ,then select only youtube history data(both watch and search history) in Json format
 2. Make sure to add file destination as Google Drive
 3. Make a folder named as Extract_Takeout in My Drive
 4. Then run the ipynb file in google colaboratory
